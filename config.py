@@ -9,8 +9,4 @@ config = {
         "sasl.username": "...",
         "sasl.password": "...",
     },
-    "schema_registry": {
-        "url": "...",
-        "basic.auth.user.info": "...",
-    }
 }
